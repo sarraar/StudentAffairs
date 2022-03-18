@@ -12,6 +12,7 @@ public class Giris {
         Scanner scanner = new Scanner(System.in);
         String giris = scanner.next();
         if (giris.equals("1")) {
+            //
 
             HesapAc yeni = new HesapAc();
 
