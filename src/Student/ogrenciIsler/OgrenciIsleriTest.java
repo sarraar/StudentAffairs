@@ -1,6 +1,6 @@
 package Student.ogrenciIsler;
 
-import com.gunler.ogrenciIsler.transkript.Transkript;
+import Student.ogrenciIsler.transkript.Transkript;
 
 public class OgrenciIsleriTest {
     public static void main(String[] args) {

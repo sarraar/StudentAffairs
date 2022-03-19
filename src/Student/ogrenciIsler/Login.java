@@ -1,6 +1,7 @@
 package Student.ogrenciIsler;
 
-import com.gunler.ogrenciIsler.klupler.KlupKayit;
+import Student.ogrenciIsler.klupler.KlupKayit;
+
 import Student.ogrenciIsler.transkript.Transkript;
 
 import java.util.Scanner;
