@@ -22,5 +22,7 @@ public class Giris {
 
 
         } else System.out.println("Hatali giris yaptiniz!");
+
+
     }
 }
